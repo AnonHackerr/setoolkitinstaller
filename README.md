@@ -1,4 +1,4 @@
-# setoolkitinstaller
+# Setoolkit Automatic Installer 
 The Social-Engineer Toolkit (SET) automatic installer for Android
 
 # Installation

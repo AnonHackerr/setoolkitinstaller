@@ -1,6 +1,10 @@
 # Setoolkit Automatic Installer 
 The Social-Engineer Toolkit (SET) automatic installer for Android
 
+YouTube Channel: https://www.youtube.com/user/kalinuxx
+
+Facebook: https://www.facebook.com/kalinuxtutorials
+
 # Installation
 Watch on YouTube: https://www.youtube.com/watch?v=d_VNxFJuGO8
 ```

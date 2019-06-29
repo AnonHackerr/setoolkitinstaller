@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "=============================================="
 echo "Created By AnonHacker"
-echo "Channel: https://www.youtube.com/user/kalinuxx"
+echo "Channel: https://www.youtube.com/channel/UCTVCBtLcOoZL9BufilZZFiA"
 echo "=============================================="
 apt-get update -y
 apt-get --force-yes -y install python-pymssql build-essential python-pexpect python-pefile python-crypto python-openssl
@@ -13,5 +13,5 @@ echo "===================================================="
 echo "[+] Setoolkit installed successfully :)"
 echo "[+] Type 'setoolkit' to run :)"
 echo "[+] Created By AnonHacker"
-echo "[SUB] Channel: https://www.youtube.com/user/kalinuxx"
+echo "[SUB] Channel: https://www.youtube.com/channel/UCTVCBtLcOoZL9BufilZZFiA"
 echo "===================================================="
